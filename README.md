@@ -34,3 +34,9 @@ A string de conexão fica em `appsettings.json` (`MongoDbSettings`).
 | DELETE | /api/jogos/{id} | Remove jogo | 204, 400, 404 |
 | GET | /api/jogos/busca?plataforma=&precoMaximo= | Filtra por plataforma e preço máximo | 200 |
 | GET | /api/jogos/relatorio-estoque | Relatório por plataforma (títulos e valor do inventário) | 200 |
+
+
+## Alunos 
+| Icaro J. Santos| --| 562403|
+| Iago Liziero| -- | 564063|
+
